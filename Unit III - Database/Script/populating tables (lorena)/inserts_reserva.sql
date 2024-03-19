@@ -1,0 +1,10 @@
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(4, '37610100013', 42, '2024-04-15', '2024-04-20');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(2, '83331606030', 33, '2022-07-20', '2022-07-25');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(2, '77978882055', 40, '2021-08-18', '2021-08-23');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(5, '67360355036', 25, '2019-09-10', '2019-09-15');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(4, '90121690032', 36, '2024-04-10', '2024-04-13');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(1, '89332564078', 27, '2023-05-05', '2023-05-12');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(2, '61460470079', 18, '2022-10-05', '2022-10-10');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(1, '27384808022', 19, '2021-03-15', '2021-03-22');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(8, '58397305050', 30, '2018-03-29', '2018-04-02');
+INSERT INTO reserva(qtd_hospede, cpf_hospede, id_imovel, check_in, check_out) VALUES(6, '33534345002', 41, '2018-04-15', '2018-04-20');
