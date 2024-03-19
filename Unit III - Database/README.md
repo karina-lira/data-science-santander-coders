@@ -21,7 +21,7 @@ Neste projeto estavam presentes os alunos:
 ### Etapas do projeto
 
 **I. Escolha do tema** <br/>
-Nosso banco de dados foi baseado na empresa Airbnb.
+Escolhemos criar um banco de dados baseado numa empresa Airbnb.
 
 **II. Especificações** <br/>
 O primeiro passo do projeto foi criar as [especificações](https://github.com/luafernandes/data-science-santander-coders/blob/main/Unit%20III%20-%20Database%20(SQL)/especificacoes.pdf), ela foi a base para desenvolvermos o restante dos projetos.
